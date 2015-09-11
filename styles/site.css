@@ -30,6 +30,10 @@ body .header-card, .grey-background {
   border-bottom: none; 
 }
 
+.margin-10 {
+    margin:10px;
+}
+
 
 body {
     height: 100%;
